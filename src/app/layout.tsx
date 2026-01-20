@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Spotify Clone",
-  description: "This is a spotify clone developed by egbontech",
+  title: "REDDY X 247 ",
+  description: "THIS IS A MUSIC PLAYER MADE BY REDDY ",
 };
 
 export default function RootLayout({
