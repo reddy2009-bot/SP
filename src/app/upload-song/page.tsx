@@ -120,7 +120,7 @@ export default function Page() {
           className="w-11 h-11"
         />
         <h2 className="text-3xl font-bold text-white my-2 mb-8 text-center">
-          Upload to Spotify
+          Upload to REDDY X 247 
         </h2>
 
         <form onSubmit={handleUpload}>
